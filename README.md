@@ -17,7 +17,7 @@ Ve a GamePad>Left Stick, asigna las tecla al joystick analógico izquierdo del g
 Cierra la ventana, los cambios se guardarán automáticamente.
 Inicia Yuzu.
 Abre el Videojuego en yuzu
-Presiona F1 para activar el Mouse2Gamepad, volviendoa a pulsar la misma tecla pararás el proceso.
+Presiona F1 para activar el Mouse2Gamepad, volviendo a pulsar la misma tecla pararás el proceso.
 Presiona F2 para salir de la herramienta.
 
 ¡A disfrutar!
