@@ -4,7 +4,7 @@ Por terminos legales de Nintendo, no puedo publicar por aquí los ROMS de los ju
 
 Link del emulador: https://yuzu-emu.org
 
-Una vez que descarguéis el emulador y lo abréis, os pedirá unas keys, las tenéis tambien subidas en el repositorio. Una vez añadida las keys, podéis configurar a vuestro gusto el emulador, si tenéis algún problema a la hora de hacerlo, podéis contactarme por mi instagram, @pandicrash_
+Una vez que descarguéis el emulador y lo abráis, os pedirá unas keys, las tenéis tambien subidas en el repositorio. Una vez añadida las keys, podéis configurar a vuestro gusto el emulador, si tenéis algún problema a la hora de hacerlo, podéis contactarme por mi instagram, @pandicrash_
 
 Es probable que una vez configurado todo, el emulador no os lea los controles, ya sea del keyboard o del controlador seleccionado, para ello, tenéis en el repositorio el archivo "Mouse2Gampead_for_Yuzu.zip" solo tendréis que descargarlo y llevar a cabo una instalación por defecto.
 
